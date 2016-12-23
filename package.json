@@ -1,0 +1,28 @@
+{
+  "name": "bfvgeolib",
+  "version": "0.0.1",
+  "description": "A library with geographical functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma test",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bfv/geolib.git"
+  },
+  "keywords": [
+    "geo"
+  ],
+  "author": "bfv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bfv/geolib/issues"
+  },
+  "homepage": "https://github.com/bfv/geolib#readme",
+  "devDependencies": {
+    "@types/jasmine": "^2.5.38",
+    "jasmine": "^2.5.2",
+    "ts-loader": "^1.3.3"
+  }
+}
