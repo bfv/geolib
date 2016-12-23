@@ -4,7 +4,7 @@
   "description": "A library with geographical functions",
   "main": "index.js",
   "scripts": {
-    "test": "karma test",
+    "test": "jasmine-node tests",
     "build": "webpack"
   },
   "repository": {
@@ -15,7 +15,7 @@
     "geo"
   ],
   "author": "bfv",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bfv/geolib/issues"
   },
