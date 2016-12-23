@@ -2,7 +2,6 @@
 import { GeoPoint } from './geopoint';
 import { Route } from './route';
 
-
 // constants
 export const earthRadius: number = 6371000;
 export const nauticalMile: number = 1852;
