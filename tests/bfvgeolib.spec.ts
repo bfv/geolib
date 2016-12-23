@@ -10,7 +10,7 @@ describe("Geolib", () => {
     });
 
     it("latitude conversion deg->rad", () => {
-        let geoPoint = new GeoPoint(0, 90);
+        let geoPoint = new GeoPoint(90, 0);
         expect(geoPoint.latrad).toBeCloseTo(Math.PI * 0.5);
     });
 
