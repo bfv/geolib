@@ -1,6 +1,6 @@
 
-import { GeoPoint } from '../geopoint';
-import * as geolib from '../index';
+import { GeoPoint } from '../src/geopoint';
+import * as geolib from '../src/index';
 
 describe("Geolib", () => {
 
