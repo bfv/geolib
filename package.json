@@ -1,8 +1,9 @@
 {
   "name": "bfvgeolib",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A library with geographical functions",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "typings": "dist/src/index.d.ts",
   "scripts": {
     "test": "jasmine-node tests",
     "build": "webpack"

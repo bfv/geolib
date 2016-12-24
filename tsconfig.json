@@ -8,9 +8,5 @@
             "jasmine"
         ],
         "declaration": true
-    },
-    "exclude": [
-        "node_modules",
-        "**/*.d.ts"
-    ]
+    }
 }
