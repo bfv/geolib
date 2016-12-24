@@ -1,0 +1,13 @@
+
+dist2
+src
+node_modules
+tests
+
+.npmignore
+bfv*
+gulpfile.js
+LICENSE
+README.md
+tsconfig.json
+webpack.config.js
